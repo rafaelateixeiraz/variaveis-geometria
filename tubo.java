@@ -3,7 +3,7 @@ public class Main{
 
     public static void main(String[] args) {
         Scanner ler = new Scanner(System.in);
-        double x, y, z;
+        double x, y;
         System.out.println("Digite a altura do tubo:");
         x = ler.nextDouble();
         System.out.println("Digite o raio do tubo:");
